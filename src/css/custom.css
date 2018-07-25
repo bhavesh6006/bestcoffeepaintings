@@ -1,16 +1,19 @@
 body {  
     font-family: 'Roboto', sans-serif;
-    background-image: linear-gradient(to right top, #ffffff, #dad7d9, #b9b0b0, #968b86, #6f6a5f);
+    background: #f0f0e9;
 }
 
 .tz-gallery .caption h3 {
-    font-size: 20px;
+    font-size: 25px;
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 0px 0px 6px rgba(41, 37, 37, 0.75);
 }
 
 .image-container {
     margin: 20px 10px 10px 10px;
     padding: 10px;
-    box-shadow: 0 1px 3px 7px #ffff;
+    box-shadow: 0 1px 3px 7px #7f7b7b;
 }
 
 .mar_all_0 {
