@@ -19,3 +19,10 @@ body {
 .mar_all_0 {
     margin: 0;
 }
+
+.original-price {
+    text-decoration: line-through;
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 16px;
+}
